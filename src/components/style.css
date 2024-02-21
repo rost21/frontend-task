@@ -1,0 +1,54 @@
+.modal {
+  width: 420px;
+}
+
+.modal-secondary-text {
+  color: #565353;
+}
+
+.modal-button {
+  padding: 10px 18px;
+}
+
+.modal-button-cancel {
+  border-color: #DCDBDB;
+}
+
+.modal-button-cancel:hover {
+  background: #F3F3F3;
+}
+
+.modal-button-cancel:focus {
+  box-shadow: 0px 0px 0px 4px #F2F4F7;
+}
+
+.modal-button-cancel:active {
+  background: #ECEAEA;
+}
+
+.modal-button-cancel:disabled {
+  cursor: not-allowed;
+  color: #DCDBDB;
+}
+
+.modal-button-delete {
+  background: #D52533;
+  color: white;
+  border-color: #C92C39;
+}
+
+.modal-button-delete:hover, .modal-button-delete:active {
+  background: #BE212E;
+  border-color: #A52F38;
+}
+
+.modal-button-delete:focus {
+  box-shadow: 0px 0px 0px 4px #FAC9CD;  
+}
+
+.modal-button-delete:disabled {
+  cursor: not-allowed;
+  border-color: #F8A9B0;
+  background: #F8A9B0;
+}
+

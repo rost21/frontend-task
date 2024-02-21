@@ -1,0 +1,1 @@
+export const TIMEOUT_BUTTON = 2000;
